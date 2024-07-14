@@ -10,7 +10,7 @@ Tweetz is a simple Twitter-like web application built using Django. It allows us
 - **Guest Mode**: Unauthenticated users can view the feed without logging in.
 - **Tweet Management**: Users can create, edit, and delete their own tweets.
 - **Search Functionality**: Users can search for specific tweets from all tweets.
-- **Frontend**: Built using Django HTML templates and CSS for styling.
+- **Frontend**: Built using Python, Django HTML templates, and CSS for styling.
 
 ## Installation
 
